@@ -21,7 +21,7 @@ This demo repository uses three models from the `imodels` library:
 2. **Optimal Rule List Classifier**  
 3. **Boosted Rules Classifier**
 
----
+
 
 ### 1. Skope Rules Classifier  
 
@@ -36,7 +36,7 @@ F1 Score: 0.57
 
 The Skope Rules Classifier performed decently but struggled with precision, leading to false positives.  
 
----
+
 
 ### 2. Optimal Rule List Classifier  
 
@@ -51,7 +51,6 @@ F1 Score: 0.57
 
 The Optimal Rule List Classifier showed the same accuracy as Skope, its low precision indicates it misclassified a good number of positive cases.  
 
----
 
 ### 3. Boosted Rules Classifier  
 
@@ -65,3 +64,8 @@ Recall: 0.89
 F1 Score: 0.88  
 
 The Boosted Rules Classifier outperformed the others, achieving high accuracy and effectively identifying species.
+
+### Credits   
+
+Used Claude AI for assistance with documentation and comments.
+
