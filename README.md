@@ -1,4 +1,4 @@
-# XAI-Interpretable-ML II: Interpretability using imodels
+# XAI-Interpretable-ML II: Understanding Interpretability using imodels
 
 ## Overview  
 
